@@ -1,5 +1,3 @@
-# Ignite-challenger-02
-
 <h4 align="center">
   Ignite-challenger-02
 </h4>
